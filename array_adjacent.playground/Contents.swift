@@ -7,7 +7,7 @@
 //Expected partition is 3.
 //let floor = [[1, 1, 0, 0], [0, 1, 0, 1], [0, 0, 1, 1], [1, 1, 0, 0]]
 //Expected partition is 0.
-let floor = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+let floor = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]55
 var connectedPoints = [[Int]]()
 var partitionCount = 0
 
